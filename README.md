@@ -1,7 +1,7 @@
 # Titanic Dataset EDA
 
 ## Overview
-- This repository contains an EDA (Exploratory Data Analysis) file (`titanic.ipynb`) that analyzes the Titanic dataset.
+- This repository contains an EDA (Exploratory Data Analysis) file (`Prodigy_DS_01.ipynb`) that analyzes the Titanic dataset.
 - The analysis includes loading the data, handling missing values, and deriving key insights from the dataset.
 
 ## Dataset
