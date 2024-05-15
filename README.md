@@ -20,16 +20,16 @@ Usage
 4. Run the cells to reproduce the analysis and visualizations.
 
 Conclusions
-1. The mean age of passengers is approximately 29.7 years, with a standard deviation of 14.5 years, indicating a wide range of ages among passengers[1].
-2. The survival rate is about 38.4%, showing that less than half of the passengers survived[1].
-3. There is a significant correlation between fare and survival, suggesting that passengers who paid higher fares had a better chance of survival[1].
-4. The majority of passengers embarked from Southampton (S), and there were more males than females on board[1].
-5. Passenger class also shows a notable impact on survival, with a higher survival rate observed among first-class passengers[1].
+1. The mean age of passengers is approximately 29.7 years, with a standard deviation of 14.5 years, indicating a wide range of ages among passengers.
+2. The survival rate is about 38.4%, showing that less than half of the passengers survived.
+3. There is a significant correlation between fare and survival, suggesting that passengers who paid higher fares had a better chance of survival.
+4. The majority of passengers embarked from Southampton (S), and there were more males than females on board.
+5. Passenger class also shows a notable impact on survival, with a higher survival rate observed among first-class passengers.
 
 Visualizations
 The EDA file includes the following visualizations:
 - Correlation matrix heatmap[1]
-- Survival count, passenger class distribution, gender distribution, and embarkation point distribution plots[1]
+- Survival count, passenger class distribution, gender distribution, and embarkation point distribution plots
 
 These visualizations provide insights into the relationships between different features and their impact on passenger survival.
 
