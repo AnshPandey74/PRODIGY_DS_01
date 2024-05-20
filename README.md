@@ -34,15 +34,15 @@ The EDA file includes the following visualizations:
 These visualizations provide insights into the relationships between different features and their impact on passenger survival.
 
 ### Screenshots
-![Correlation matrix heatmap](https://github.com/yourusername/yourrepository/raw/main/screenshots/1.png)
-![Survival count](https://github.com/yourusername/yourrepository/raw/main/screenshots/2.png)
-![Passenger class distribution](https://github.com/yourusername/yourrepository/raw/main/screenshots/3.png)
-![Gender distribution](https://github.com/yourusername/yourrepository/raw/main/screenshots/4.png)
-![Embarkation point distribution](https://github.com/yourusername/yourrepository/raw/main/screenshots/5.png)
-![Another visualization](https://github.com/yourusername/yourrepository/raw/main/screenshots/6.png)
-![Additional visualization](https://github.com/yourusername/yourrepository/raw/main/screenshots/7.png)
-![Further visualization](https://github.com/yourusername/yourrepository/raw/main/screenshots/8.png)
-![Final visualization](https://github.com/yourusername/yourrepository/raw/main/screenshots/9.png)
+![Correlation matrix heatmap](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/1.png)
+![Survival count](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/2.png)
+![Passenger class distribution](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/3.png)
+![Gender distribution](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/4.png)
+![Embarkation point distribution](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/5.png)
+![Another visualization](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/6.png)
+![Additional visualization](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/7.png)
+![Further visualization](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/8.png)
+![Final visualization](https://github.com/AnshPandey74/Prodigy_DS_01/raw/c8c4a73f890c3735a79817b8b8c6fb5b080943c0/screenshots/9.png)
 
 ## Contributing
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
