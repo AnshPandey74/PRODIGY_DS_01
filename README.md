@@ -16,7 +16,7 @@
 ## Usage
 1. Clone the repository.
 2. Ensure you have Python 3.x and the required dependencies installed.
-3. Open the EDA file (`titanic.ipynb`) in a Jupyter Notebook environment.
+3. Open the EDA file (`Prodigy_DS_01.ipynb`) in a Jupyter Notebook environment.
 4. Run the cells to reproduce the analysis and visualizations.
 
 ## Conclusions
