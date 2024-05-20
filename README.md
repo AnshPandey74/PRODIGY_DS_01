@@ -29,9 +29,20 @@
 ## Visualizations
 The EDA file includes the following visualizations:
 - Correlation matrix heatmap.
-- Survival count, passenger class distribution, gender distribution, and embarkation point distribution plots
+- Survival count, passenger class distribution, gender distribution, and embarkation point distribution plots.
 
 These visualizations provide insights into the relationships between different features and their impact on passenger survival.
+
+### Screenshots
+![Correlation matrix heatmap](https://github.com/yourusername/yourrepository/raw/main/screenshots/1.png)
+![Survival count](https://github.com/yourusername/yourrepository/raw/main/screenshots/2.png)
+![Passenger class distribution](https://github.com/yourusername/yourrepository/raw/main/screenshots/3.png)
+![Gender distribution](https://github.com/yourusername/yourrepository/raw/main/screenshots/4.png)
+![Embarkation point distribution](https://github.com/yourusername/yourrepository/raw/main/screenshots/5.png)
+![Another visualization](https://github.com/yourusername/yourrepository/raw/main/screenshots/6.png)
+![Additional visualization](https://github.com/yourusername/yourrepository/raw/main/screenshots/7.png)
+![Further visualization](https://github.com/yourusername/yourrepository/raw/main/screenshots/8.png)
+![Final visualization](https://github.com/yourusername/yourrepository/raw/main/screenshots/9.png)
 
 ## Contributing
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
